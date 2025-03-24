@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "description": "Frontend Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "description": "UI/UX Designer"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "description": "Backend Developer"
+    }
+  ]
+}
